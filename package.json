@@ -42,7 +42,7 @@
     "@types/node-emoji": "^1.8.1",
     "@types/spotify-web-api-node": "^5.0.2",
     "@types/validator": "^13.1.4",
-    "@types/ws": "^8.5.10",
+    "@types/ws": "8.5.4",
     "@typescript-eslint/eslint-plugin": "^4.31.1",
     "@typescript-eslint/parser": "^4.31.1",
     "eslint": "^7.32.0",
@@ -128,10 +128,9 @@
     "sync-fetch": "^0.3.1",
     "tsx": "3.8.2",
     "xbytes": "^1.7.0",
-    "ytsr": "^3.8.4",
-    "yt-dlp-youtube-oauth2": "git+https://github.com/YOUR_USERNAME/yt-dlp-youtube-oauth2.git"
+    "ytsr": "^3.8.4"
   },
   "resolutions": {
-    "@types/ws": "^8.5.10"
+    "@types/ws": "8.5.4"
   }
 }
